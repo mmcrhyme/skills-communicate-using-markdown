@@ -8,3 +8,5 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] This is a task.
+- [x] This item is complete.
